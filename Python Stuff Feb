@@ -1,0 +1,67 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/leahwa-ai/PythonProject8/blob/main/Python%20Stuff%20Feb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "id": "95d2a856",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "95d2a856",
+        "outputId": "ccfa7210-df01-495d-bd1a-03a630dddb14"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello world\n"
+          ]
+        }
+      ],
+      "source": [
+        "print('hello world')"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "import openai\n"
+      ],
+      "metadata": {
+        "id": "pIZRJb8NvShn"
+      },
+      "id": "pIZRJb8NvShn",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "name": "python",
+      "version": "3.12.1"
+    },
+    "colab": {
+      "provenance": [],
+      "include_colab_link": true
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
